@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![alt text](https://buihemadu.files.wordpress.com/2016/08/meme-kermit-drinking-tea.png?w=640)
+![alt text](https://cdn.lowgif.com/small/62a8ffcf9f512217-sip-tea-gif-kermit-www-imgarcade-com-online-image-arcade.gif)
