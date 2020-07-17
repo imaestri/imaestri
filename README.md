@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![alt text](https://drive.google.com/file/d/1LIF44K7J9GeKg597NbsIfgWSi7Smfk6g/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1LIF44K7J9GeKg597NbsIfgWSi7Smfk6g/view)
