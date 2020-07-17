@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![alt text](https://media.tenor.com/images/6d77f3c68917c8397742df845ed78da1/tenor.png)
+![alt text](https://buihemadu.files.wordpress.com/2016/08/meme-kermit-drinking-tea.png?w=640)
