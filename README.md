@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on track & trace(vs)
 
- - 💬 Ask me about SQL(SQL-SERVER)
+ - 💬 Ask me about SQL
 
  - 📫 How to reach me isaquemaestri01@gmail.com
 
