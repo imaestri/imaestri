@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![status](https://badge.stateful.com/imaestri/status.svg)](Status for @imaestri)
+
+[![status](https://badge.stateful.com/imaestri/dnd.svg)](DnD for @imaestri)
 
 <!--
 **imaestri/imaestri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
