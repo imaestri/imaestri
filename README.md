@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at [Minu](https://www.minu.co/) as a Full Stack Developer;
-- 🌱 I’m currently studying more about Unit and Integration tests, <br/>Typescript, React Native, Clean Code and Node.Js;
+- 🌱 I’m currently studying more about Unit and Integration tests, <br/>Typescript, Clean Code and Node.Js;
 - 💬 Ask me about: NextJs, React, Javascript, CSS, Strapi CMS, RTL,<br/> GraphQL, Styled Components;
 - 📫 How to reach me:  isaquemaestri01@gmail.com | [Linkedin](https://www.linkedin.com/in/isaquemaestri/);
 	
