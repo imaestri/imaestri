@@ -6,9 +6,3 @@
 Tailwind Css, Unit and Integration tests;
 - 📫 How to reach me:  isaquemaestri01@gmail.com | [Linkedin](https://www.linkedin.com/in/isaquemaestri/);
 	
- ### Status
-
-[![status](https://badge.stateful.com/imaestri/status.svg)]
-
-[![status](https://badge.stateful.com/imaestri/dnd.svg)]
-
